@@ -3,8 +3,9 @@
   <channel>
     <title>OPE Journal</title>
     <link>https://raw.githubusercontent.com/raphaelbusiness701-bot/ope-journal-releases/main/appcast.xml</link>
-    <description>Windows-Updates für OPE Journal</description>
+    <description>Updates für OPE Journal</description>
     <language>de</language>
+    <!-- windows-item-start -->
     <item>
       <title>Version 1.0.4</title>
       <pubDate>Mon, 20 Jul 2026 01:50:18 +0000</pubDate>
@@ -13,9 +14,13 @@
         url="https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/download/v1.0.4/OPEJournalSetup-1.0.4.exe"
         sparkle:version="1.0.4"
         sparkle:shortVersionString="1.0.4"
+        sparkle:os="windows"
         length="45146714"
         type="application/octet-stream"
         sparkle:installerArguments="/SILENT /NORESTART" />
     </item>
+    <!-- windows-item-end -->
+    <!-- macos-item-start -->
+    <!-- macos-item-end -->
   </channel>
 </rss>
