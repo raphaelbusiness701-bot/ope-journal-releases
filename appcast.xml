@@ -21,6 +21,18 @@
     </item>
     <!-- windows-item-end -->
     <!-- macos-item-start -->
+    <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Mon, 20 Jul 2026 14:23:41 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/tag/v1.0.4-mac</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/download/v1.0.4-mac/OPEJournal-1.0.4.dmg"
+        sparkle:version="1.0.4"
+        sparkle:shortVersionString="1.0.4"
+        sparkle:os="macos"
+        length="48092937"
+        type="application/octet-stream" />
+    </item>
     <!-- macos-item-end -->
   </channel>
 </rss>
