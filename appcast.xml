@@ -6,14 +6,14 @@
     <description>Windows-Updates für OPE Journal</description>
     <language>de</language>
     <item>
-      <title>Version 1.0.0</title>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/tag/v1.0.0</sparkle:releaseNotesLink>
+      <title>Version 1.0.1</title>
+      <pubDate>Mon, 20 Jul 2026 01:20:43 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/tag/v1.0.1</sparkle:releaseNotesLink>
       <enclosure
-        url="https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/download/v1.0.0/OPEJournalSetup-1.0.0.exe"
-        sparkle:version="1.0.0"
-        sparkle:shortVersionString="1.0.0"
-        length="45120151"
+        url="https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/download/v1.0.1/OPEJournalSetup-1.0.1.exe"
+        sparkle:version="1.0.1"
+        sparkle:shortVersionString="1.0.1"
+        length="45149206"
         type="application/octet-stream"
         sparkle:installerArguments="/SILENT /NORESTART" />
     </item>
