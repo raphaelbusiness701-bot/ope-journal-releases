@@ -7,15 +7,15 @@
     <language>de</language>
     <!-- windows-item-start -->
     <item>
-      <title>Version 1.0.6</title>
-      <pubDate>Sun, 13 Sep 2026 06:18:43 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/tag/v1.0.6</sparkle:releaseNotesLink>
+      <title>Version 1.0.8</title>
+      <pubDate>Sun, 13 Sep 2026 16:55:13 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/tag/v1.0.8</sparkle:releaseNotesLink>
       <enclosure
-        url="https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/download/v1.0.6/OPEJournalSetup-1.0.6.exe"
-        sparkle:version="1.0.6"
-        sparkle:shortVersionString="1.0.6"
+        url="https://github.com/raphaelbusiness701-bot/ope-journal-releases/releases/download/v1.0.8/OPEJournalSetup-1.0.8.exe"
+        sparkle:version="1.0.8"
+        sparkle:shortVersionString="1.0.8"
         sparkle:os="windows"
-        length="26493298"
+        length="26496559"
         type="application/octet-stream"
         sparkle:installerArguments="/SILENT /NORESTART" />
     </item>
